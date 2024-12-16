@@ -6,8 +6,3 @@ if (loggedIn == true) {
 } else {
     console.log('Please log in to view your cart.')
 }
-
-// array.forEach(function (item, index) {
-//     console.log(item, index);
-
-// array.forEach(item => console.log(item));
